@@ -1,0 +1,38 @@
+
+
+
+
+.container {
+    text-align: center;
+    margin: auto;
+    width: auto;
+    height: 280px;
+    background-color: lightblue;
+    padding: 10px;
+
+}
+
+body {
+    background-image: url(../images/just-waves.png);
+}
+
+#guessed-letters {
+    background-color: white;
+    border-style: dotted;
+    border-color: black;
+}
+
+#title {
+    font-family: 'Cabin Sketch', cursive;
+    font-size: 40px;
+}
+
+#world {
+    font-family: 'Cabin Sketch', cursive;
+}
+
+#instruction {
+    font-family: 'Cabin Sketch', cursive;
+}
+
+
